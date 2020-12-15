@@ -8,35 +8,6 @@ let locations: Location[]  = [
         address: "Samrat Building, Ground, 100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008",
         rating: "4",
         facilities: ['Hot drinks','Food','Premium wifi'],
-    //     openingTimes: [{
-    //         days:'Monday-friday',
-    //         opening: '7:00am',
-    //         closing: '7:00pm',
-    //         closed: false
-    //     },
-    //     {
-    //         days:'saturday',
-    //         opening: '8:00am',
-    //         closing: '5:00pm',
-    //         closed: false
-    //     },
-    //     {
-    //         days:'sunday',
-    //         closed:true
-    //     }
-    //    ],
-    //     reviews: [
-    //         {
-    //             author: 'Sam',
-    //             reviewText: 'Great location, great staff and great service. Quality of coffee is also really good. Overall, five star experience!',
-    //         },
-    //         {
-    //             author: 'Ram',
-    //             reviewText: 'Easy going ambience, decent menu and smart seating design'
-    //         }
-    //     ]
-       
-
     },
     {
         id: "2",
@@ -44,35 +15,7 @@ let locations: Location[]  = [
         address: "729, Chinmaya Mission Hospital Rd, Indira Nagar 1st Stage, Stage 1, Indiranagar, Bengaluru, Karnataka 560038",
         rating: "4",
         facilities: ['Hot drinks','Food','Premium wifi'],
-    //     openingTimes: [{
-    //         days:'Monday-friday',
-    //         opening: '7:00am',
-    //         closing: '7:00pm',
-    //         closed: false
-    //     },
-    //     {
-    //         days:'saturday',
-    //         opening: '8:00am',
-    //         closing: '5:00pm',
-    //         closed: false
-    //     },
-    //     {
-    //         days:'sunday',
-    //         closed:true
-    //     }
-    //    ],
-    //     reviews: [
-    //         {
-    //             author: 'Sam',
-    //             reviewText: 'Great location, great staff and great service. Quality of coffee is also really good. Overall, five star experience!',
-    //         },
-    //         {
-    //             author: 'Ram',
-    //             reviewText: 'Easy going ambience, decent menu and smart seating design'
-    //         }
-    //     ]
-       
-
+    
     },
     {
         id: "3",
@@ -80,37 +23,7 @@ let locations: Location[]  = [
         address: "Address: MSK Plaza, 3rd Main Rd, Defence Colony, Indiranagar, Bengaluru, Karnataka 560038",
         rating: "5",
         facilities: ['Hot drinks','Food','European Menu','Weekend Breakfast','wine','Premium wifi'],
-    //     openingTimes: [{
-    //         days:'Monday-friday',
-    //         opening: '7:00am',
-    //         closing: '7:00pm',
-    //         closed: false
-    //     },
-    //     {
-    //         days:'saturday',
-    //         opening: '8:00am',
-    //         closing: '5:00pm',
-    //         closed: false
-    //     },
-    //     {
-    //         days:'sunday',
-    //         closed:true
-    //     }
-    //    ],
-    //     reviews: [
-    //         {
-    //             author: 'Sam',
-    //             reviewText: 'Amazing lighting and decor !! Classy place with continental food menu !!  variety of drinks being served . Place was so calm with less people. Desserts are a must try at this place . Service is little slow but nice place to give a try for sure !'
-    //         },
-    //         {
-    //             author: 'Ram',
-    //             reviewText: 'Easy going ambience, decent menu and smart seating design'
-    //         }
-    //     ]
-       
-
-    // },
-
+    
     }
    
 ];
