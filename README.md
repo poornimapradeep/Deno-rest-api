@@ -40,7 +40,7 @@ project
 ###### Note:
 >  *--allow-net is to allow network access --allow-read is to allow read access to file system*.
 
-####   open (https://localhost:5000)(https://localhost:5000)
+####   open (https://localhost:5000)
 
 
 
