@@ -28,14 +28,11 @@ project
     │   location.ts
 
 ```
-.
-+-- _controllers
-|   +--location.ts
-+-- routes.ts
-+-- server.ts
-+-- types.ts
+#### Getting Started 
 
-####  step 1: Run
+`` - git clone https://github.com/poornimapradeep/Deno-rest-api.githttps://github.com/poornimapradeep/Deno-rest-api.git
+
+####   Run
 
 `` deno run --allow-net --allow-write --allow-read --allow-plugin --unstable server.ts ``
 
@@ -43,7 +40,7 @@ project
 ###### Note:
 >  *--allow-net is to allow network access --allow-read is to allow read access to file system*.
 
-####  step 2: open (https://localhost:5000)(https://localhost:5000)
+####   open (https://localhost:5000)(https://localhost:5000)
 
 
 
