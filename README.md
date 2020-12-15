@@ -30,7 +30,7 @@ project
 ```
 #### Getting Started 
 
-`` - git clone https://github.com/poornimapradeep/Deno-rest-api.githttps://github.com/poornimapradeep/Deno-rest-api.git
+`` - git clone https://github.com/poornimapradeep/Deno-rest-api ``
 
 ####   Run
 
