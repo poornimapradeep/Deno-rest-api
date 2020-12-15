@@ -17,6 +17,17 @@
 
 ### Project Structure
 
+```
+project
+│   README.md
+│   routes.ts
+|   server.ts
+|   types.ys    
+│
+└───Controllers
+    │   location.ts
+
+```
 .
 +-- _controllers
 |   +--location.ts
@@ -32,7 +43,7 @@
 ###### Note:
 >  *--allow-net is to allow network access --allow-read is to allow read access to file system*.
 
-####  step 2: [open](https://localhost:5000)
+####  step 2: open (https://localhost:5000)(https://localhost:5000)
 
 
 
