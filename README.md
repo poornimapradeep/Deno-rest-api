@@ -19,13 +19,13 @@
 
 ```
 project
-│   README.md
-│   routes.ts
-|   server.ts
-|   types.ys    
-│
 └───Controllers
     │   location.ts
+│   routes.ts
+|   server.ts
+|   types.ts    
+│   README.md
+
 
 ```
 #### Getting Started 
