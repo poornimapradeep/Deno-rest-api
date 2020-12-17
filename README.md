@@ -42,12 +42,13 @@ project
 
 ####   open (https://localhost:5000)
 Open the link http://localhost:5000 with postman and you can test complete CRUD application using following APIs
-|API	                                      |Method	   |Description
-|http://localhost:5000/api/v1/locations	      |GET	       |Fetch All Locations
-|http://localhost:5000/api/v1/locations/:id   |GET	       |Fetch Location by ID
-|http://localhost:5000/api/v1/locations	      |POST	       |Create New Location
-|http://localhost:5000/api/v1/locations/:id   |PUT	       |Update Location by ID
-|http://localhost:5000/api/v1/locations/:id   |DELETE	   |Delete Location by ID
+|API | Method |	       
+|--- | --- |
+|http://localhost:5000/api/v1/locations	     | GET	 |     
+|http://localhost:5000/api/v1/locations/:id  | GET	 |     
+|http://localhost:5000/api/v1/locations	     | POST	 |     
+|http://localhost:5000/api/v1/locations/:id  | PUT	 |    
+|http://localhost:5000/api/v1/locations/:id  | DELETE |	 
 
 
 
