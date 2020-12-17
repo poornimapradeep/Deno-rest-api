@@ -41,6 +41,13 @@ project
 >  *--allow-net is to allow network access --allow-read is to allow read access to file system*.
 
 ####   open (https://localhost:5000)
+Open the link http://localhost:5000 with postman and you can test complete CRUD application using following APIs
+|API	|                          |Method	   |Description
+|http://localhost:5000/todos/	   |GET	       |Fetch All Locations
+|http://localhost:5000/todos/{id}  |GET	       |Fetch Location by ID
+|http://localhost:5000/todos/	   |POST	   |Create New Location
+|http://localhost:5000/todos/{id}  |PUT	       |Update Location by ID
+|http://localhost:5000/todos/{id}  |DELETE	   |Delete Location by ID
 
 
 
